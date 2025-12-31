@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "237222768882",
+    "project_id": "flutter-deeplearning-pro-bced7",
+    "storage_bucket": "flutter-deeplearning-pro-bced7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237222768882:android:c1eb8ae94bde279baa606b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_deeplearning_projet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237222768882-c9ckgujpdosi1poalc12c1t47fh7k8r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_deeplearning_projet",
+            "certificate_hash": "cdc0df22819dff9e0a4fed1a7c1f6ab5895bf637"
+          }
+        },
+        {
+          "client_id": "237222768882-sbvv6sch2tsoi284671stfj8kd64olao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2pQdSWlksqUDTFtaPPUu0wK6zcg6kAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237222768882-sbvv6sch2tsoi284671stfj8kd64olao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237222768882-5k96h1fao49gtr8v9bujrfgs9p6uegum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterDeeplearningProjet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
